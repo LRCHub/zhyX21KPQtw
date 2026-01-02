@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "オトノケ - Otonoke (Instrumental)",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2026-01-02T21:18:58.012927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Otonoke - オトノケ",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_Otonoke_-_オトノケ_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Otonoke - オトノケ (Instrumental)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_Otonoke_-_オトノケ_(Instrumental)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オトノケ - Otonoke (Opening Theme to DAN DA DAN)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_オトノケ_-_Otonoke_(Opening_Theme_to_DAN_DA_DAN)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オトノケ - Otonoke (Opening Theme to DAN DA DAN)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/04_オトノケ_-_Otonoke_(Opening_Theme_to_DAN_DA_DAN)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オトノケ - Otonoke (Opening Theme to DAN DA DAN)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/05_オトノケ_-_Otonoke_(Opening_Theme_to_DAN_DA_DAN)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オトノケ - Otonoke (Instrumental)",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/06_オトノケ_-_Otonoke_(Instrumental)_Creepy_Nuts.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オトノケ - Otonoke",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/07_オトノケ_-_Otonoke_Creepy_Nuts.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オトノケ",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/08_オトノケ_Creepy_Nuts.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "オトノケ - Otonoke - Opening Theme to DAN DA DAN",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/09_オトノケ_-_Otonoke_-_Opening_Theme_to_DAN_DA_DAN_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オトノケ - Otonoke - Opening Theme to DAN DA DAN",
+      "artist": "Gooseworx",
+      "has_synced": true,
+      "path": "select/10_オトノケ_-_Otonoke_-_Opening_Theme_to_DAN_DA_DAN_Gooseworx.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "オトノケ - Otonoke - Opening Theme to DAN DA DAN",
+      "artist": "N/A",
+      "has_synced": true,
+      "path": "select/11_オトノケ_-_Otonoke_-_Opening_Theme_to_DAN_DA_DAN_N_A.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オトノケ - Otonoke",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_オトノケ_-_Otonoke_CreepyNuts.txt"
+    }
+  ]
+}
